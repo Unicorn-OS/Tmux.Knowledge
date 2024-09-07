@@ -8,7 +8,3 @@ sch: https://www.google.com/search?q=tmux
 # Comparison:
 ## GNU Screen
 >Tmux offers some of the same functionality found in Screen, which has been deprecated in some Linux distributions. Tmux has a more modern code base than Screen and offers additional customization capabilities.
-
-
-# relation:
-- [Don't use VSCode](https://youtu.be/GUovhZYNO-M?t=1650)
