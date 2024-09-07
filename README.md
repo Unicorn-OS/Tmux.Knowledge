@@ -5,7 +5,10 @@ sch: https://www.google.com/search?q=tmux
 - https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
 - https://www.redhat.com/sysadmin/introduction-tmux-linux
 
-## video:
+# Comparison:
+## GNU Screen
+>Tmux offers some of the same functionality found in Screen, which has been deprecated in some Linux distributions. Tmux has a more modern code base than Screen and offers additional customization capabilities.
 
-relation:
+
+# relation:
 - [Don't use VSCode](https://youtu.be/GUovhZYNO-M?t=1650)
