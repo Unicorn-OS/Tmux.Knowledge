@@ -1,6 +1,7 @@
 # Session
 ## New
 tmux n -s <session name>
+
 tmux new -s <session name>
 
 # Attach
