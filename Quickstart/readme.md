@@ -15,3 +15,10 @@ tmux attach -t <session name>
 
 # Detach
 <Ctrl + b> d
+
+# Splitting Panes
+Split Vertically:   `C-b %`
+Split Horizontally:  `C-b "`
+
+## Navigating Panes
+`C-b <arrow key>`
